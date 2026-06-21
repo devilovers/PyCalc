@@ -1,13 +1,14 @@
 <h1 align="center">
-  📚 Student Records
+  🧮 Kalkulator Sederhana
 </h1>
 
 <p align="center">
-  A simple Java application built to practice arrays, loops, and basic data processing.
+  A minimalist calculator application built with Python and Tkinter.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk">
+  <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
@@ -15,35 +16,37 @@
 
 ## ✨ About Project
 
-This project is a simple student data management application created as part of my journey in learning Java programming fundamentals.
+This project is a simple calculator application created as part of my journey in learning Python and GUI development using Tkinter.
 
-The application demonstrates the use of arrays, loops, and basic data processing through a console-based program.
+The application features a minimalist dark interface and supports basic arithmetic operations.
 
 ---
 
 ## 🚀 Features
 
-- 📋 Store student data using arrays
-- 🔄 Display data using loops
-- 💻 Console-based interface
-- 📚 Beginner-friendly implementation
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Decimal numbers
+- 🌙 Dark minimalist interface
+- 🧹 Clear button to reset input
 
 ---
 
 ## 🛠️ Built With
 
-- Java
-- NetBeans IDE
+- Python 3
+- Tkinter
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-student-records/
+kalkulator-sederhana/
 │
-├── src/
-│   └── Main.java
+├── main.py
 └── README.md
 ```
 
@@ -51,9 +54,9 @@ student-records/
 
 ## 🎯 Learning Goals
 
-- Understanding Java arrays
-- Learning loops and data processing
-- Practicing programming logic and problem-solving skills
+- Understanding Python fundamentals
+- Learning GUI development with Tkinter
+- Practicing event handling and application logic
 
 ---
 
