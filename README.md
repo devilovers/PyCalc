@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Completed-6CC644?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-black?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=flat-square">
-</p>
-
 ---
 
 ## Overview
