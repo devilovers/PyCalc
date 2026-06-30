@@ -43,17 +43,11 @@ This project was created to explore the fundamentals of Python desktop applicati
 
 ---
 
-## Preview
+Author
 
-<p align="center">
-  <i>A simple, clean, and distraction-free calculator experience.</i>
-</p>
+Nur Islami Sabila
+Informatics Engineering Student from Indonesia.
 
----
+<p align="left"> <i>"Learning by building, growing by creating."</i> </p>
 
-## Getting Started
-
-```bash
-git clone https://github.com/devilovers/kalkulator-sederhana.git
-cd kalkulator-sederhana
-python main.py
+<p align="center"> If you found this project helpful, consider giving it a ⭐ to support the repository. </p>
