@@ -16,7 +16,7 @@ A personalized birthday website created with heartfelt messages, cherished memor
 
 ## Overview
 
-This project was developed as a special birthday gift for Aspian while also serving as a creative frontend practice project. The website combines personal messages, memorable moments, and simple animations to create an engaging and meaningful digital experience.
+This project was developed as a special birthday gift for My Boyfriend while also serving as a creative frontend practice project. The website combines personal messages, memorable moments, and simple animations to create an engaging and meaningful digital experience.
 
 ---
 
