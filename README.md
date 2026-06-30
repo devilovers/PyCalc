@@ -45,8 +45,7 @@ This project was created to explore the fundamentals of Python desktop applicati
 
 ## Author
 
-Nur Islami Sabila
-Informatics Engineering Student from Indonesia.
+<p> Nur Islami Sabila<br> Informatics Engineering Student from Indonesia. </p>
 
 <blockquote> Learning by building, growing by creating. </blockquote>
 
