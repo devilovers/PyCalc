@@ -48,6 +48,6 @@ This project was created to explore the fundamentals of Python desktop applicati
 Nur Islami Sabila
 Informatics Engineering Student from Indonesia.
 
-<p align="left"> <i>"Learning by building, growing by creating."</i> </p>
+<blockquote> Learning by building, growing by creating. </blockquote>
 
 <p align="left"> If you found this project helpful, consider giving it a ⭐ to support the repository. </p>
