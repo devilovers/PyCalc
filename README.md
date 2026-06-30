@@ -44,10 +44,7 @@ This project is a simple desktop calculator developed to explore Python fundamen
 
 ## Author
 
-<p>
-<strong>Nur Islami Sabila<br></strong>
-  Informatics Engineering Student from Indonesia.
-</p>
+<p> <strong>Nur Islami Sabila</strong><br> Informatics Engineering Student from Indonesia. </p>
 
 <blockquote>
   Learning by building, growing by creating.
