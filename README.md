@@ -1,56 +1,65 @@
-<div align="center">
+<h1 align="center">Simple Calculator</h1>
 
-# Birthday Gift for Aspian
-
-A personalized birthday website created with heartfelt messages, cherished memories, and interactive pages designed to celebrate a special moment in a memorable way.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge">
+<p align="center">
+  A minimalist desktop calculator built with <strong>Python</strong> and <strong>Tkinter</strong>.
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.0-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-6CC644?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=flat-square">
+</p>
 
 ---
 
 ## Overview
 
-This project was developed as a special birthday gift for My Boyfriend while also serving as a creative frontend practice project. The website combines personal messages, memorable moments, and simple animations to create an engaging and meaningful digital experience.
+This project is a simple desktop calculator developed to explore Python fundamentals and graphical user interface development using Tkinter. It provides essential arithmetic operations through a clean and minimalist dark-themed interface.
 
 ---
 
 ## Features
 
-* Personalized birthday greeting page
-* Interactive messages and notes
-* Dedicated memory pages
-* Responsive design for multiple devices
-* Smooth and elegant animations
-* Multi-page website experience
+* Basic arithmetic operations
+
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
+* Decimal number support
+* Minimalist dark user interface
+* Clear button to reset calculations
+* Lightweight and beginner-friendly implementation
 
 ---
 
 ## Technologies
 
-| Technology | Description                          |
-| ---------- | ------------------------------------ |
-| HTML5      | Structure and content of the website |
-| CSS3       | Styling, layout, and animations      |
+| Technology | Description                                 |
+| ---------- | ------------------------------------------- |
+| Python 3   | Core programming language                   |
+| Tkinter    | Built-in Python library for GUI development |
 
 ---
 
 ## Author
 
 <p>
-<strong>Nur Islami Sabila</strong><br>
-Informatics Engineering Student from Indonesia.
+  Nur Islami Sabila<br>
+  Informatics Engineering Student from Indonesia.
 </p>
 
 <blockquote>
-Learning by building, growing by creating.
+  Learning by building, growing by creating.
 </blockquote>
 
-<p align="left">
-If you found this project helpful, consider giving it a ⭐ to support the repository.
+---
+
+<p align="center">
+  If you found this project helpful, consider giving it a ⭐ to support the repository.
 </p>
