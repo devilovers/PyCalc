@@ -43,11 +43,11 @@ This project was created to explore the fundamentals of Python desktop applicati
 
 ---
 
-Author
+## Author
 
 Nur Islami Sabila
 Informatics Engineering Student from Indonesia.
 
 <p align="left"> <i>"Learning by building, growing by creating."</i> </p>
 
-<p align="center"> If you found this project helpful, consider giving it a ⭐ to support the repository. </p>
+<p align="left"> If you found this project helpful, consider giving it a ⭐ to support the repository. </p>
