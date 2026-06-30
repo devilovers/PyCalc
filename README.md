@@ -1,73 +1,80 @@
-<h1 align="center">
-  🧮 Kalkulator Sederhana
-</h1>
+````md
+<div align="center">
 
-<p align="center">
-  A minimalist calculator application built with Python and Tkinter.
+# Simple Calculator
+
+A clean and lightweight calculator application built with **Python** and **Tkinter**, featuring a minimalist dark interface and essential arithmetic operations.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge">
 </p>
 
+</div>
+
+---
+
+## Overview
+
+This project was created to explore the fundamentals of Python desktop application development using Tkinter. The application focuses on simplicity, providing a straightforward user experience with a modern dark-themed interface.
+
+---
+
+## Features
+
+- Basic arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Decimal number support
+- Minimalist dark interface
+- Clear button to reset calculations
+- Responsive button interactions
+
+---
+
+## Technologies
+
+| Technology | Description |
+|------------|-------------|
+| Python 3 | Core programming language |
+| Tkinter | Standard Python GUI library |
+
+---
+
+## Preview
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <i>A simple, clean, and distraction-free calculator experience.</i>
 </p>
 
 ---
 
-## ✨ About Project
-
-This project is a simple calculator application created as part of my journey in learning Python and GUI development using Tkinter.
-
-The application features a minimalist dark interface and supports basic arithmetic operations.
-
----
-
-## 🚀 Features
-
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔢 Decimal numbers
-- 🌙 Dark minimalist interface
-- 🧹 Clear button to reset input
-
----
-
-## 🛠️ Built With
-
-- Python 3
-- Tkinter
-
----
-
-## 📂 Project Structure
+## Getting Started
 
 ```bash
-kalkulator-sederhana/
-│
-├── main.py
-└── README.md
+git clone https://github.com/devilovers/kalkulator-sederhana.git
+cd kalkulator-sederhana
+python main.py
+````
+
+---
+
+## Author
+
+### Nur Islami Sabila
+
+Informatics Engineering Student from Indonesia, passionate about creating simple and functional applications while continuously exploring software development and user interface design.
+
+> *"Learning by building, growing by creating."*
+
+---
+
+<div align="center">
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+</div>
 ```
-
----
-
-## 🎯 Learning Goals
-
-- Understanding Python fundamentals
-- Learning GUI development with Tkinter
-- Practicing event handling and application logic
-
----
-
-## 👩🏻‍💻 Author
-
-**Nur Islami Sabila**
-
-Frontend Developer & Informatics Student Candidate from Indonesia 🇮🇩
-
-> "Learning by building, growing by creating."
-
----
-
-⭐ If you like this project, don't forget to give it a star.
