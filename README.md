@@ -55,6 +55,6 @@ This project is a simple desktop calculator developed to explore Python fundamen
 
 ---
 
-<p align="center">
+<p align="left">
   If you found this project helpful, consider giving it a ⭐ to support the repository.
 </p>
