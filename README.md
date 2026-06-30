@@ -1,12 +1,12 @@
 <div align="center">
 
-# Simple Calculator
+# Birthday Gift for Aspian
 
-A clean and lightweight calculator application built with **Python** and **Tkinter**, featuring a minimalist dark interface and essential arithmetic operations.
+A personalized birthday website created with heartfelt messages, cherished memories, and interactive pages designed to celebrate a special moment in a memorable way.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge">
 </p>
 
@@ -16,37 +16,41 @@ A clean and lightweight calculator application built with **Python** and **Tkint
 
 ## Overview
 
-This project was created to explore the fundamentals of Python desktop application development using Tkinter. The application focuses on simplicity, providing a straightforward user experience with a modern dark-themed interface.
+This project was developed as a special birthday gift for Aspian while also serving as a creative frontend practice project. The website combines personal messages, memorable moments, and simple animations to create an engaging and meaningful digital experience.
 
 ---
 
 ## Features
 
-- Basic arithmetic operations:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division
-- Decimal number support
-- Minimalist dark interface
-- Clear button to reset calculations
-- Responsive button interactions
+* Personalized birthday greeting page
+* Interactive messages and notes
+* Dedicated memory pages
+* Responsive design for multiple devices
+* Smooth and elegant animations
+* Multi-page website experience
 
 ---
 
 ## Technologies
 
-| Technology | Description |
-|------------|-------------|
-| Python 3 | Core programming language |
-| Tkinter | Standard Python GUI library |
+| Technology | Description                          |
+| ---------- | ------------------------------------ |
+| HTML5      | Structure and content of the website |
+| CSS3       | Styling, layout, and animations      |
 
 ---
 
 ## Author
 
-<p> <strong>Nur Islami Sabila</strong><br> Informatics Engineering Student from Indonesia. </p>
+<p>
+<strong>Nur Islami Sabila</strong><br>
+Informatics Engineering Student from Indonesia.
+</p>
 
-<blockquote> Learning by building, growing by creating. </blockquote>
+<blockquote>
+Learning by building, growing by creating.
+</blockquote>
 
-<p align="left"> If you found this project helpful, consider giving it a ⭐ to support the repository. </p>
+<p align="left">
+If you found this project helpful, consider giving it a ⭐ to support the repository.
+</p>
