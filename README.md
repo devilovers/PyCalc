@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Simple Calculator
@@ -58,23 +57,3 @@ This project was created to explore the fundamentals of Python desktop applicati
 git clone https://github.com/devilovers/kalkulator-sederhana.git
 cd kalkulator-sederhana
 python main.py
-````
-
----
-
-## Author
-
-### Nur Islami Sabila
-
-Informatics Engineering Student from Indonesia, passionate about creating simple and functional applications while continuously exploring software development and user interface design.
-
-> *"Learning by building, growing by creating."*
-
----
-
-<div align="center">
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-</div>
-```
